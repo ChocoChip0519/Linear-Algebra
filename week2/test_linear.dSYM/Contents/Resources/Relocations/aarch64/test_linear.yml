@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/taeuk/Documents/3-2/선대1/Linear-Algebra/week2/test_linear"
+relocations:     []
+...
