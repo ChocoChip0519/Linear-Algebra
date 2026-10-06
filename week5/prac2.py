@@ -1,6 +1,6 @@
 import numpy as np
 
-#행렬 A와 B 정릐
+#행렬 A와 B 정의
 A = np.array([
     [1, 0, 2],
     [2, -1, 3],
